@@ -1,0 +1,17 @@
+https://siuba.readthedocs.io/en/latest/guide_programming.html
+guía general de siuba
+
+https://siuba.readthedocs.io/en/latest/api_table_core/03_select.html
+contiene varios métodos de selección en siuba
+
+https://siuba.readthedocs.io/en/latest/api_extra/vector.html
+funciones principales de dplyr en siuba
+
+https://github.com/machow/siuba/issues/342
+mutate con ifelse en siuba
+
+https://datascienceworkshops.com/blog/heuristics-for-translating-ggplot2-to-plotnine/
+heurísticas de plotnine
+
+https://plotnine.readthedocs.io/en/stable/generated/plotnine.themes.theme.html
+manejo de ticks en plotnine
