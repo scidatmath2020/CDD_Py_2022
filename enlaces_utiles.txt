@@ -15,3 +15,9 @@ heurísticas de plotnine
 
 https://plotnine.readthedocs.io/en/stable/generated/plotnine.themes.theme.html
 manejo de ticks en plotnine
+
+https://learn.siuba.org/intro-data-science/01b-filter/
+ejercicios para practicar siuba online
+
+https://siuba.readthedocs.io/_/downloads/en/stable/pdf/
+libro de siuba
