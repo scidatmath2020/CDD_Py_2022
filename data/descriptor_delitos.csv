@@ -1,0 +1,16 @@
+cod_del,Delito
+1,Robo total de vehículo
+2,Robo parcial de vehículo
+3,Vandalismo
+4,Robo en casa
+5,Robo en la calle
+6,Otro tipo de robo
+7,Fraude bancario
+8,Fraude al consumidor
+9,Extorsión
+10,Amenazas verbales
+11,Lesiones físicas
+12,Secuestro
+13,Hostigamiento
+14,Violación
+15,Otros
